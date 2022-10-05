@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{What is Lasso?}{7}{0}{2}
+\beamer@sectionintoc {3}{Application in applied econometrics}{25}{0}{3}
